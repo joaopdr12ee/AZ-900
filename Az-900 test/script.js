@@ -79,9 +79,11 @@ wrong_list = [];
 
 function correct(prc){
     correct_list.push(prc);
+    alert('Registered');
 }
 function wrong(prcw){
     wrong_list.push(prcw);
+    alert('Registered');
 }
 
 w = document.getElementById('w');

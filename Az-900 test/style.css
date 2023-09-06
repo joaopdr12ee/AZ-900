@@ -89,3 +89,19 @@ a:hover{
     background-color: #111;
 }
 
+.container img{
+    max-width: 1000px;
+}
+
+
+.container1{
+    position: absolute;
+    text-align: center;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: #111;
+    padding: 30px;
+    border-radius: 30px;
+    border: 2px solid whitesmoke;
+}
